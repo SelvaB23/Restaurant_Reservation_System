@@ -1,3 +1,2 @@
-### GIT TEST PROJECT
+### GIT RESTAURANT PROJECT
 
-Additional Information to follow
